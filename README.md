@@ -8,5 +8,5 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 - [**Tableau Dashboard**](https://public.tableau.com/app/profile/venkataramarao.guttikonda/viz/Book_17020676101870/Dashboard1?publish=yes) - created a dashboard in Tableau summarizing the data.
 
 ## 📁 Files
-- [**FinalAnalysis.ipynb**]() - analyzed the data set from case study 1 in the Google Data Analytics Course using Python. I done data visualization in Python and derived conclusions from the data. 
+- [**FinalAnalysis.ipynb**](https://github.com/venkataramaraoguttikonda/Google-Capstone-Project/blob/main/FinalAnalysis.ipynb) - analyzed the data set from case study 1 in the Google Data Analytics Course using Python. I done data visualization in Python and derived conclusions from the data. 
 - [**FinalAnalysisTableau**]() - From the exported cleaned data file from python , Again I done Visualizations using Tableau.
